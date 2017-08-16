@@ -15,7 +15,7 @@
     "react-native": ">=0.44.0"
   },
   "homepage": "https://github.com/Liruwei/react-native-app-settings",
-  "bugs": "https://github.com/KrazyLabs/react-native-app-settings/issues",
+  "bugs": "https://github.com/Liruwei/react-native-app-settings/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/Liruwei/react-native-app-settings.git"
